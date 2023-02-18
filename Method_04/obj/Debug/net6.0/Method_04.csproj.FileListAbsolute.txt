@@ -1,0 +1,15 @@
+C:\Users\Пользователь\Desktop\яз.програм.Лекция3_Функции\Method_04\bin\Debug\net6.0\Method_04.exe
+C:\Users\Пользователь\Desktop\яз.програм.Лекция3_Функции\Method_04\bin\Debug\net6.0\Method_04.deps.json
+C:\Users\Пользователь\Desktop\яз.програм.Лекция3_Функции\Method_04\bin\Debug\net6.0\Method_04.runtimeconfig.json
+C:\Users\Пользователь\Desktop\яз.програм.Лекция3_Функции\Method_04\bin\Debug\net6.0\Method_04.dll
+C:\Users\Пользователь\Desktop\яз.програм.Лекция3_Функции\Method_04\bin\Debug\net6.0\Method_04.pdb
+C:\Users\Пользователь\Desktop\яз.програм.Лекция3_Функции\Method_04\obj\Debug\net6.0\Method_04.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\яз.програм.Лекция3_Функции\Method_04\obj\Debug\net6.0\Method_04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Desktop\яз.програм.Лекция3_Функции\Method_04\obj\Debug\net6.0\Method_04.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Desktop\яз.програм.Лекция3_Функции\Method_04\obj\Debug\net6.0\Method_04.AssemblyInfo.cs
+C:\Users\Пользователь\Desktop\яз.програм.Лекция3_Функции\Method_04\obj\Debug\net6.0\Method_04.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\яз.програм.Лекция3_Функции\Method_04\obj\Debug\net6.0\Method_04.dll
+C:\Users\Пользователь\Desktop\яз.програм.Лекция3_Функции\Method_04\obj\Debug\net6.0\refint\Method_04.dll
+C:\Users\Пользователь\Desktop\яз.програм.Лекция3_Функции\Method_04\obj\Debug\net6.0\Method_04.pdb
+C:\Users\Пользователь\Desktop\яз.програм.Лекция3_Функции\Method_04\obj\Debug\net6.0\Method_04.genruntimeconfig.cache
+C:\Users\Пользователь\Desktop\яз.програм.Лекция3_Функции\Method_04\obj\Debug\net6.0\ref\Method_04.dll
