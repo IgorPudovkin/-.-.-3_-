@@ -1,0 +1,15 @@
+C:\Users\Пользователь\Desktop\яз.програм.Лекция3_Функции\Cycle_in_Cycle\obj\Debug\net6.0\Cycle_in_Cycle.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\яз.програм.Лекция3_Функции\Cycle_in_Cycle\obj\Debug\net6.0\Cycle_in_Cycle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Desktop\яз.програм.Лекция3_Функции\Cycle_in_Cycle\obj\Debug\net6.0\Cycle_in_Cycle.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Desktop\яз.програм.Лекция3_Функции\Cycle_in_Cycle\obj\Debug\net6.0\Cycle_in_Cycle.AssemblyInfo.cs
+C:\Users\Пользователь\Desktop\яз.програм.Лекция3_Функции\Cycle_in_Cycle\obj\Debug\net6.0\Cycle_in_Cycle.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\яз.програм.Лекция3_Функции\Cycle_in_Cycle\bin\Debug\net6.0\Cycle_in_Cycle.exe
+C:\Users\Пользователь\Desktop\яз.програм.Лекция3_Функции\Cycle_in_Cycle\bin\Debug\net6.0\Cycle_in_Cycle.deps.json
+C:\Users\Пользователь\Desktop\яз.програм.Лекция3_Функции\Cycle_in_Cycle\bin\Debug\net6.0\Cycle_in_Cycle.runtimeconfig.json
+C:\Users\Пользователь\Desktop\яз.програм.Лекция3_Функции\Cycle_in_Cycle\bin\Debug\net6.0\Cycle_in_Cycle.dll
+C:\Users\Пользователь\Desktop\яз.програм.Лекция3_Функции\Cycle_in_Cycle\bin\Debug\net6.0\Cycle_in_Cycle.pdb
+C:\Users\Пользователь\Desktop\яз.програм.Лекция3_Функции\Cycle_in_Cycle\obj\Debug\net6.0\Cycle_in_Cycle.dll
+C:\Users\Пользователь\Desktop\яз.програм.Лекция3_Функции\Cycle_in_Cycle\obj\Debug\net6.0\refint\Cycle_in_Cycle.dll
+C:\Users\Пользователь\Desktop\яз.програм.Лекция3_Функции\Cycle_in_Cycle\obj\Debug\net6.0\Cycle_in_Cycle.pdb
+C:\Users\Пользователь\Desktop\яз.програм.Лекция3_Функции\Cycle_in_Cycle\obj\Debug\net6.0\Cycle_in_Cycle.genruntimeconfig.cache
+C:\Users\Пользователь\Desktop\яз.програм.Лекция3_Функции\Cycle_in_Cycle\obj\Debug\net6.0\ref\Cycle_in_Cycle.dll
