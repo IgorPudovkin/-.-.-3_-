@@ -1,0 +1,15 @@
+C:\Users\Пользователь\Desktop\яз.програм.Лекция3_Функции\training_task\obj\Debug\net6.0\training_task.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\яз.програм.Лекция3_Функции\training_task\obj\Debug\net6.0\training_task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Desktop\яз.програм.Лекция3_Функции\training_task\obj\Debug\net6.0\training_task.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Desktop\яз.програм.Лекция3_Функции\training_task\obj\Debug\net6.0\training_task.AssemblyInfo.cs
+C:\Users\Пользователь\Desktop\яз.програм.Лекция3_Функции\training_task\obj\Debug\net6.0\training_task.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\яз.програм.Лекция3_Функции\training_task\bin\Debug\net6.0\training_task.exe
+C:\Users\Пользователь\Desktop\яз.програм.Лекция3_Функции\training_task\bin\Debug\net6.0\training_task.deps.json
+C:\Users\Пользователь\Desktop\яз.програм.Лекция3_Функции\training_task\bin\Debug\net6.0\training_task.runtimeconfig.json
+C:\Users\Пользователь\Desktop\яз.програм.Лекция3_Функции\training_task\bin\Debug\net6.0\training_task.dll
+C:\Users\Пользователь\Desktop\яз.програм.Лекция3_Функции\training_task\bin\Debug\net6.0\training_task.pdb
+C:\Users\Пользователь\Desktop\яз.програм.Лекция3_Функции\training_task\obj\Debug\net6.0\training_task.dll
+C:\Users\Пользователь\Desktop\яз.програм.Лекция3_Функции\training_task\obj\Debug\net6.0\refint\training_task.dll
+C:\Users\Пользователь\Desktop\яз.програм.Лекция3_Функции\training_task\obj\Debug\net6.0\training_task.pdb
+C:\Users\Пользователь\Desktop\яз.програм.Лекция3_Функции\training_task\obj\Debug\net6.0\training_task.genruntimeconfig.cache
+C:\Users\Пользователь\Desktop\яз.програм.Лекция3_Функции\training_task\obj\Debug\net6.0\ref\training_task.dll
