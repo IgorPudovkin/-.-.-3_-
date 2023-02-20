@@ -1,0 +1,15 @@
+C:\Users\Пользователь\Desktop\яз.програм.Лекция3_Функции\sorting_algorithm\obj\Debug\net6.0\sorting_algorithm.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\яз.програм.Лекция3_Функции\sorting_algorithm\obj\Debug\net6.0\sorting_algorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Desktop\яз.програм.Лекция3_Функции\sorting_algorithm\obj\Debug\net6.0\sorting_algorithm.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Desktop\яз.програм.Лекция3_Функции\sorting_algorithm\obj\Debug\net6.0\sorting_algorithm.AssemblyInfo.cs
+C:\Users\Пользователь\Desktop\яз.програм.Лекция3_Функции\sorting_algorithm\obj\Debug\net6.0\sorting_algorithm.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\яз.програм.Лекция3_Функции\sorting_algorithm\bin\Debug\net6.0\sorting_algorithm.exe
+C:\Users\Пользователь\Desktop\яз.програм.Лекция3_Функции\sorting_algorithm\bin\Debug\net6.0\sorting_algorithm.deps.json
+C:\Users\Пользователь\Desktop\яз.програм.Лекция3_Функции\sorting_algorithm\bin\Debug\net6.0\sorting_algorithm.runtimeconfig.json
+C:\Users\Пользователь\Desktop\яз.програм.Лекция3_Функции\sorting_algorithm\bin\Debug\net6.0\sorting_algorithm.dll
+C:\Users\Пользователь\Desktop\яз.програм.Лекция3_Функции\sorting_algorithm\bin\Debug\net6.0\sorting_algorithm.pdb
+C:\Users\Пользователь\Desktop\яз.програм.Лекция3_Функции\sorting_algorithm\obj\Debug\net6.0\sorting_algorithm.dll
+C:\Users\Пользователь\Desktop\яз.програм.Лекция3_Функции\sorting_algorithm\obj\Debug\net6.0\refint\sorting_algorithm.dll
+C:\Users\Пользователь\Desktop\яз.програм.Лекция3_Функции\sorting_algorithm\obj\Debug\net6.0\sorting_algorithm.pdb
+C:\Users\Пользователь\Desktop\яз.програм.Лекция3_Функции\sorting_algorithm\obj\Debug\net6.0\sorting_algorithm.genruntimeconfig.cache
+C:\Users\Пользователь\Desktop\яз.програм.Лекция3_Функции\sorting_algorithm\obj\Debug\net6.0\ref\sorting_algorithm.dll
